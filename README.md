@@ -8,7 +8,7 @@ Cerberus(abbreviation) is desinged to help you to **test, understand, and learn 
 
 Cerberus can **deal with strong servers** and **can be optimized** for non typical targets.
 
-Raven will fit your purpose, even if it is **jamming down wifi networks or bluetooth devices**.
+Cerberus will fit your purpose, even if it is **jamming down wifi networks or bluetooth devices**.
 
 _I archived this repository because I currently do not want to work on it._
 
